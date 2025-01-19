@@ -1,6 +1,6 @@
 spring:
   application:
-    name: HotelApp
+    name: HotelService
     #eureka client
 eureka:
   client:
